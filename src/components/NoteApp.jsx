@@ -1,7 +1,5 @@
 import React from 'react';
 import Header from './Header';
-import NoteInput from './NoteInput';
-import NotesList from './NotesList';
 import { getInitialData } from '../utils';
 import NoteBody from './NoteBody';
 import Footer from './Footer';
